@@ -14,3 +14,5 @@ You can download a unity package from [the latest release](../../releases).
 All you need to do is create a folder called "*Resources*" anywhere under the "*Assets*" folder, and drop the audio files in there with the names "*StartCompilationSound*", "*EndCompilationSound*".
 
 The package contains a sample of an already created folder with sounds.
+
+*Note: After importing a package, the sound may not play immediately; it will appear after several recompilations.*
