@@ -15,4 +15,4 @@ All you need to do is create a folder called "*Resources*" anywhere under the "*
 
 The package contains a sample of an already created folder with sounds.
 
-*Note: After importing a package, the sound may not play immediately; it will appear after several recompilations.*
+__*Note: After importing a package, the sound may not play immediately; it will appear after several recompilations.*__ 
